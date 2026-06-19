@@ -1,0 +1,11 @@
+Lo primero es identificar la designación de cada motor del dron, existen dos tipos, los HC que giran en sentido horario y su base es de color celeste y los CXD que giran en sentido antihorario con base de color blanco.
+Por otro lado tenemos las helices, tambien con su designacion, A para los motores HC y B para los CXD.
+También cada motor tiene un cable blanco, el cual para todo motor se conecta en la conexión negativa de la placa, y para el cable rojo y negro, la conexión positiva.
+Asi como tambien hay designaciones en la placa para instalar los motores, la configuracion de conexión es en X.
+Para la configuración de conexión en X la designación de placa M1 y M3 es para el motor CXD o de base blanca, Y para M2 y M4 es para los motores HC o base celeste.
+Por el lado de las baterias, para mantener un vuelo estable sin bajones de potencia, se recomienda ultilizar una bateria con minimo 3.7V de su carga, hasta 4.2V.
+Para conectar el dron y manejarlo, se utiliza la aplicacion para telefonos CrazyFlie Client.
+Para conectarse con el dron, una vez encendido se recomienda encenderlo en una base plana, para que se calibre.
+Existe un botón en la placa el que esta mas cercano a M3 para reiniciar la calibracion y el wifi del dron.
+Cada drone contiene un nombre wifi distinto, para conectarse, la clave por defecto es 12345678, una vez conectado acceder a la app CrazyFlie Client.
+Una vez dentro y conectado al wifi, selecionar el botón en la ezquina superior derecha, al la izquierda del botón de configuración.
