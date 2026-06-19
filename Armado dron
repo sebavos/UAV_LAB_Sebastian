@@ -4,8 +4,8 @@ También cada motor tiene un cable blanco, el cual para todo motor se conecta en
 Asi como tambien hay designaciones en la placa para instalar los motores, la configuracion de conexión es en X.
 Para la configuración de conexión en X la designación de placa M1 y M3 es para el motor CXD o de base blanca, Y para M2 y M4 es para los motores HC o base celeste.
 Por el lado de las baterias, para mantener un vuelo estable sin bajones de potencia, se recomienda ultilizar una bateria con minimo 3.7V de su carga, hasta 4.2V.
-Para conectar el dron y manejarlo, se utiliza la aplicacion para telefonos CrazyFlie Client.
+Para conectar el dron y manejarlo, se utiliza la aplicacion para telefonos Esp-Drone app.
 Para conectarse con el dron, una vez encendido se recomienda encenderlo en una base plana, para que se calibre.
 Existe un botón en la placa el que esta mas cercano a M3 para reiniciar la calibracion y el wifi del dron.
-Cada drone contiene un nombre wifi distinto, para conectarse, la clave por defecto es 12345678, una vez conectado acceder a la app CrazyFlie Client.
+Cada drone contiene un nombre wifi distinto, para conectarse, la clave por defecto es 12345678, una vez conectado acceder a la app Esp-Drone.
 Una vez dentro y conectado al wifi, selecionar el botón en la ezquina superior derecha, al la izquierda del botón de configuración.
